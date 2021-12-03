@@ -7,9 +7,12 @@ spring:
   profiles: dev     #开发环境
   application:
     name: microservicecloud-config-atguigu-dev
+f: '{cipher}392379db950f59320bb8d7a767e11c9329f97bfed2fbc7daf258d15e61aff1cb'
 ---
 spring:
   profiles: test   #测试环境
   application:
     name: microservicecloud-config-atguigu-test
+# 加密解密技术
+f1: '{cipher}1eafe08ba8d004848e7849a43530843c6b22a335c4a62c560dbdc30d02f1f111'
 #  请保存为UTF-8格式
