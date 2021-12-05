@@ -1,1 +1,3 @@
 a: a
+order:
+  pay-timeout-seconds: 0
